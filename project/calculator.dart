@@ -1,6 +1,6 @@
 void main(){
 
-  //calculator app
+  //calculator app project
   //addition
   //sub,mul,divi,reminder
   
